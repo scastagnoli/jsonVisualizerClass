@@ -1,0 +1,30 @@
+/*
+https://www.sessions.edu/color-calculator/
+*/
+.uno tr:nth-child(even) {background: #C0C0C0}
+.uno tr:nth-child(odd) {background: #F0F0F0}
+
+
+.due tr:nth-child(even) {background: #C0C0C0}
+.due tr:nth-child(odd) {background: #A0A0A0}
+.due tr:hover {background: #ebe9e7;}
+.due thead th{
+    color: #FFFFFF;
+	background: #000000
+}
+
+.tre tr:nth-child(even) {background: #5a9bf7}
+.tre tr:nth-child(odd) {background: #7da6de}
+.tre tr:hover {background: #f7995a;}
+.tre thead th{
+    color: #FFFFFF;
+	background: #000000
+}
+.tre  {
+    border-collapse: collapse;
+	text-align: center;
+}
+.tre th, td {
+	
+	border-bottom: 1px solid #000000;
+}
